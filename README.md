@@ -15,7 +15,8 @@
 </p> 
 
 - 🏢 I'm a Computer Engineering student at ISITCom University.  
-- 👨‍💻 As an IoT student, I'm constantly learning and exploring new technologies to enhance my skills.  
+- 👨‍💻 As an IoT student, I'm constantly learning and exploring new technologies to enhance my skills.
+-  🤖 My goal is to create **amazing IoT solutions** and build **innovative robots**.  
 - 💬 Ask me about my experience with C, Python, Java, or anything related to development.  
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a cup of coffee.  
 - 👨‍💻 Check out my portfolio (coming soon) to see some of the projects I've worked on.  
