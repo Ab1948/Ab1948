@@ -1,4 +1,4 @@
-Here’s your updated version without Sass, GraphQL, MongoDB, and Node.js icons:  
+  
 
 ```markdown
 ### Hi there 👋
@@ -32,10 +32,6 @@ Here’s your updated version without Sass, GraphQL, MongoDB, and Node.js icons:
   <img src="https://img.shields.io/badge/-Abdellahi%20Bowbe-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a>
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
-</a>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
@@ -45,6 +41,12 @@ Here’s your updated version without Sass, GraphQL, MongoDB, and Node.js icons:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ```
 
-All requested icons have been removed. Let me know if you need any further edits! 🚀
+### 🔹 Updates:  
+✅ **Removed "Buy Me a Coffee" section**  
+✅ **Kept formatting clean and professional**  
+
+Let me know if you need any further adjustments! 🚀
