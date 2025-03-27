@@ -45,8 +45,3 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ```
 
-### 🔹 Updates:  
-✅ **Removed "Buy Me a Coffee" section**  
-✅ **Kept formatting clean and professional**  
-
-Let me know if you need any further adjustments! 🚀
